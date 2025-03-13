@@ -485,7 +485,7 @@ Camera:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 4
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -916,6 +916,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &627745812
 GameObject:
   m_ObjectHideFlags: 0
@@ -4656,13 +4657,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2141222623}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> 6583cd750a7b2f6ee6bc8a904d97b2620db79673
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+<<<<<<< HEAD
   - {fileID: 1263092299}
   - {fileID: 1253969801}
   - {fileID: 627745815}
   - {fileID: 1063845366}
+=======
+>>>>>>> 6583cd750a7b2f6ee6bc8a904d97b2620db79673

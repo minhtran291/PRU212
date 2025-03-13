@@ -1,0 +1,7167 @@
+fileFormatVersion: 2
+guid: 06b480ca258952e4c89b1fc9cea113d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3376710193739598653
+    second: NicePng_game-sprite-png_2414725_0
+  - first:
+      213: 6995584147364911062
+    second: NicePng_game-sprite-png_2414725_1
+  - first:
+      213: 1912657726497082844
+    second: NicePng_game-sprite-png_2414725_2
+  - first:
+      213: -3531819297914263285
+    second: NicePng_game-sprite-png_2414725_3
+  - first:
+      213: -4800053472633384549
+    second: NicePng_game-sprite-png_2414725_4
+  - first:
+      213: -5657823789019642809
+    second: NicePng_game-sprite-png_2414725_5
+  - first:
+      213: -7503784768529044240
+    second: NicePng_game-sprite-png_2414725_6
+  - first:
+      213: -8756521725072747544
+    second: NicePng_game-sprite-png_2414725_7
+  - first:
+      213: 5266188923002232023
+    second: NicePng_game-sprite-png_2414725_8
+  - first:
+      213: 3771630011321543862
+    second: NicePng_game-sprite-png_2414725_9
+  - first:
+      213: 5993241872245113574
+    second: NicePng_game-sprite-png_2414725_10
+  - first:
+      213: -7679140473149212932
+    second: NicePng_game-sprite-png_2414725_11
+  - first:
+      213: -5606937094909311328
+    second: NicePng_game-sprite-png_2414725_12
+  - first:
+      213: 3270610221479541520
+    second: NicePng_game-sprite-png_2414725_13
+  - first:
+      213: -528422769592872566
+    second: NicePng_game-sprite-png_2414725_14
+  - first:
+      213: 563825559410853530
+    second: NicePng_game-sprite-png_2414725_15
+  - first:
+      213: -3505530402450272121
+    second: NicePng_game-sprite-png_2414725_16
+  - first:
+      213: -5598171882459293409
+    second: NicePng_game-sprite-png_2414725_17
+  - first:
+      213: 6827223122134797015
+    second: NicePng_game-sprite-png_2414725_18
+  - first:
+      213: -2511540163993004699
+    second: NicePng_game-sprite-png_2414725_19
+  - first:
+      213: 8791621860481842994
+    second: NicePng_game-sprite-png_2414725_20
+  - first:
+      213: -6900696330831133179
+    second: NicePng_game-sprite-png_2414725_21
+  - first:
+      213: 3173273408325507726
+    second: NicePng_game-sprite-png_2414725_22
+  - first:
+      213: -6120073156732914837
+    second: NicePng_game-sprite-png_2414725_23
+  - first:
+      213: -666619970999466855
+    second: NicePng_game-sprite-png_2414725_24
+  - first:
+      213: 4701326656873058277
+    second: NicePng_game-sprite-png_2414725_25
+  - first:
+      213: 6265609062302324940
+    second: NicePng_game-sprite-png_2414725_26
+  - first:
+      213: 1504406814255675982
+    second: NicePng_game-sprite-png_2414725_27
+  - first:
+      213: -323494012230896933
+    second: NicePng_game-sprite-png_2414725_28
+  - first:
+      213: 1988315474210914374
+    second: NicePng_game-sprite-png_2414725_29
+  - first:
+      213: -1019282496483543970
+    second: NicePng_game-sprite-png_2414725_30
+  - first:
+      213: 2278679227565804450
+    second: NicePng_game-sprite-png_2414725_31
+  - first:
+      213: -311249878831507054
+    second: NicePng_game-sprite-png_2414725_32
+  - first:
+      213: 2495543077941192558
+    second: NicePng_game-sprite-png_2414725_33
+  - first:
+      213: -1576021089023542940
+    second: NicePng_game-sprite-png_2414725_34
+  - first:
+      213: 4377737199851979796
+    second: NicePng_game-sprite-png_2414725_35
+  - first:
+      213: -8778881396656465050
+    second: NicePng_game-sprite-png_2414725_36
+  - first:
+      213: 8395087975992177616
+    second: NicePng_game-sprite-png_2414725_37
+  - first:
+      213: 8164601400603227363
+    second: NicePng_game-sprite-png_2414725_38
+  - first:
+      213: -7243189194307810183
+    second: NicePng_game-sprite-png_2414725_39
+  - first:
+      213: -4328784813670268000
+    second: NicePng_game-sprite-png_2414725_40
+  - first:
+      213: 8387533759662393417
+    second: NicePng_game-sprite-png_2414725_41
+  - first:
+      213: -8327059289278031198
+    second: NicePng_game-sprite-png_2414725_42
+  - first:
+      213: 7345125731749986033
+    second: NicePng_game-sprite-png_2414725_43
+  - first:
+      213: 4912738910197697566
+    second: NicePng_game-sprite-png_2414725_44
+  - first:
+      213: -3860030235875261749
+    second: NicePng_game-sprite-png_2414725_45
+  - first:
+      213: 3447393729490520925
+    second: NicePng_game-sprite-png_2414725_46
+  - first:
+      213: -4766053136051768633
+    second: NicePng_game-sprite-png_2414725_47
+  - first:
+      213: 4985552454591214957
+    second: NicePng_game-sprite-png_2414725_48
+  - first:
+      213: 7359264826259674232
+    second: NicePng_game-sprite-png_2414725_49
+  - first:
+      213: 3840887839500146551
+    second: NicePng_game-sprite-png_2414725_50
+  - first:
+      213: 5636394816999274199
+    second: NicePng_game-sprite-png_2414725_51
+  - first:
+      213: -5490440076562241954
+    second: NicePng_game-sprite-png_2414725_52
+  - first:
+      213: 6194872533512331319
+    second: NicePng_game-sprite-png_2414725_53
+  - first:
+      213: -7535406431462740301
+    second: NicePng_game-sprite-png_2414725_54
+  - first:
+      213: -7608202431245016931
+    second: NicePng_game-sprite-png_2414725_55
+  - first:
+      213: -8935852909336218689
+    second: NicePng_game-sprite-png_2414725_56
+  - first:
+      213: -7322298719611582597
+    second: NicePng_game-sprite-png_2414725_57
+  - first:
+      213: 1696106715689308214
+    second: NicePng_game-sprite-png_2414725_58
+  - first:
+      213: 911042864780695134
+    second: NicePng_game-sprite-png_2414725_59
+  - first:
+      213: 3485279738415744490
+    second: NicePng_game-sprite-png_2414725_60
+  - first:
+      213: 3079288116281287426
+    second: NicePng_game-sprite-png_2414725_61
+  - first:
+      213: -1907523331639082030
+    second: NicePng_game-sprite-png_2414725_62
+  - first:
+      213: -814126893013452872
+    second: NicePng_game-sprite-png_2414725_63
+  - first:
+      213: -7038564820877890727
+    second: NicePng_game-sprite-png_2414725_64
+  - first:
+      213: -147479113640570715
+    second: NicePng_game-sprite-png_2414725_65
+  - first:
+      213: -8168909510288182596
+    second: NicePng_game-sprite-png_2414725_66
+  - first:
+      213: 8374983967267608919
+    second: NicePng_game-sprite-png_2414725_67
+  - first:
+      213: 1139130578949188324
+    second: NicePng_game-sprite-png_2414725_68
+  - first:
+      213: -8605779174399355315
+    second: NicePng_game-sprite-png_2414725_69
+  - first:
+      213: 3939890991364337721
+    second: NicePng_game-sprite-png_2414725_70
+  - first:
+      213: -3195121901139406297
+    second: NicePng_game-sprite-png_2414725_71
+  - first:
+      213: -8213386594071663403
+    second: NicePng_game-sprite-png_2414725_72
+  - first:
+      213: -7842323359305247447
+    second: NicePng_game-sprite-png_2414725_73
+  - first:
+      213: 8112664836100727868
+    second: NicePng_game-sprite-png_2414725_74
+  - first:
+      213: 2439436602755592777
+    second: NicePng_game-sprite-png_2414725_75
+  - first:
+      213: 4943519808347949704
+    second: NicePng_game-sprite-png_2414725_76
+  - first:
+      213: -7726236827165114384
+    second: NicePng_game-sprite-png_2414725_77
+  - first:
+      213: -3997650421631569120
+    second: NicePng_game-sprite-png_2414725_78
+  - first:
+      213: 7525636543724648572
+    second: NicePng_game-sprite-png_2414725_79
+  - first:
+      213: 1423796779168025627
+    second: NicePng_game-sprite-png_2414725_80
+  - first:
+      213: -6896319812130309920
+    second: NicePng_game-sprite-png_2414725_81
+  - first:
+      213: -538458469031379246
+    second: NicePng_game-sprite-png_2414725_82
+  - first:
+      213: -8132933846243406858
+    second: NicePng_game-sprite-png_2414725_83
+  - first:
+      213: -8780980739427969272
+    second: NicePng_game-sprite-png_2414725_84
+  - first:
+      213: -838050621475930579
+    second: NicePng_game-sprite-png_2414725_85
+  - first:
+      213: 3475592611226840732
+    second: NicePng_game-sprite-png_2414725_86
+  - first:
+      213: -8258582105206895424
+    second: NicePng_game-sprite-png_2414725_87
+  - first:
+      213: 1985290173585262133
+    second: NicePng_game-sprite-png_2414725_88
+  - first:
+      213: 5363457359153501344
+    second: NicePng_game-sprite-png_2414725_89
+  - first:
+      213: -103206360131155270
+    second: NicePng_game-sprite-png_2414725_90
+  - first:
+      213: 7702540887251478895
+    second: NicePng_game-sprite-png_2414725_91
+  - first:
+      213: -5865778985471451667
+    second: NicePng_game-sprite-png_2414725_92
+  - first:
+      213: 7008718998496641432
+    second: NicePng_game-sprite-png_2414725_93
+  - first:
+      213: 3416195064199618400
+    second: NicePng_game-sprite-png_2414725_94
+  - first:
+      213: -3487909171595260873
+    second: NicePng_game-sprite-png_2414725_95
+  - first:
+      213: 1986269136602532526
+    second: NicePng_game-sprite-png_2414725_96
+  - first:
+      213: -1603510841644728114
+    second: NicePng_game-sprite-png_2414725_97
+  - first:
+      213: 9198596526114738920
+    second: NicePng_game-sprite-png_2414725_98
+  - first:
+      213: 7686326233652535938
+    second: NicePng_game-sprite-png_2414725_99
+  - first:
+      213: 2885922062768442524
+    second: NicePng_game-sprite-png_2414725_100
+  - first:
+      213: 5020001570003098663
+    second: NicePng_game-sprite-png_2414725_101
+  - first:
+      213: 5024805788045347551
+    second: NicePng_game-sprite-png_2414725_102
+  - first:
+      213: 2840950969171677079
+    second: NicePng_game-sprite-png_2414725_103
+  - first:
+      213: -801814238968369746
+    second: NicePng_game-sprite-png_2414725_104
+  - first:
+      213: 714517092942512595
+    second: NicePng_game-sprite-png_2414725_105
+  - first:
+      213: -1649191844965057261
+    second: NicePng_game-sprite-png_2414725_106
+  - first:
+      213: 4335050243953762866
+    second: NicePng_game-sprite-png_2414725_107
+  - first:
+      213: 4784573553015247467
+    second: NicePng_game-sprite-png_2414725_108
+  - first:
+      213: -1770328537761732654
+    second: NicePng_game-sprite-png_2414725_109
+  - first:
+      213: 7177087063340152285
+    second: NicePng_game-sprite-png_2414725_110
+  - first:
+      213: -4207412288231567674
+    second: NicePng_game-sprite-png_2414725_111
+  - first:
+      213: -7703193620885116688
+    second: NicePng_game-sprite-png_2414725_112
+  - first:
+      213: -4752730497686221463
+    second: NicePng_game-sprite-png_2414725_113
+  - first:
+      213: 7089153164180918218
+    second: NicePng_game-sprite-png_2414725_114
+  - first:
+      213: -1631501183661615544
+    second: NicePng_game-sprite-png_2414725_115
+  - first:
+      213: 2058789162667996540
+    second: NicePng_game-sprite-png_2414725_116
+  - first:
+      213: 3428425429729365412
+    second: NicePng_game-sprite-png_2414725_117
+  - first:
+      213: 6451795152903374290
+    second: NicePng_game-sprite-png_2414725_118
+  - first:
+      213: -3342268127365035883
+    second: NicePng_game-sprite-png_2414725_119
+  - first:
+      213: -2813752780658081884
+    second: NicePng_game-sprite-png_2414725_120
+  - first:
+      213: 7244253838138886809
+    second: NicePng_game-sprite-png_2414725_121
+  - first:
+      213: -3860953220733976767
+    second: NicePng_game-sprite-png_2414725_122
+  - first:
+      213: 3517346352778546572
+    second: NicePng_game-sprite-png_2414725_123
+  - first:
+      213: -8438999050972845366
+    second: NicePng_game-sprite-png_2414725_124
+  - first:
+      213: 2802877616193103881
+    second: NicePng_game-sprite-png_2414725_125
+  - first:
+      213: -2838483692447740122
+    second: NicePng_game-sprite-png_2414725_126
+  - first:
+      213: 9134129991621213920
+    second: NicePng_game-sprite-png_2414725_127
+  - first:
+      213: 3139838727372945021
+    second: NicePng_game-sprite-png_2414725_128
+  - first:
+      213: -2659898921187198768
+    second: NicePng_game-sprite-png_2414725_129
+  - first:
+      213: -6261137927720289331
+    second: NicePng_game-sprite-png_2414725_130
+  - first:
+      213: -447458724989354862
+    second: NicePng_game-sprite-png_2414725_131
+  - first:
+      213: 6767074818234554383
+    second: NicePng_game-sprite-png_2414725_132
+  - first:
+      213: -1578587156766488245
+    second: NicePng_game-sprite-png_2414725_133
+  - first:
+      213: 2504384525742590440
+    second: NicePng_game-sprite-png_2414725_134
+  - first:
+      213: 6706954393254547755
+    second: NicePng_game-sprite-png_2414725_135
+  - first:
+      213: 2464719432929047809
+    second: NicePng_game-sprite-png_2414725_136
+  - first:
+      213: 2155164391641071910
+    second: NicePng_game-sprite-png_2414725_137
+  - first:
+      213: -8960682696360944875
+    second: NicePng_game-sprite-png_2414725_138
+  - first:
+      213: -7994110415419466296
+    second: NicePng_game-sprite-png_2414725_139
+  - first:
+      213: 7927554473316178876
+    second: NicePng_game-sprite-png_2414725_140
+  - first:
+      213: 2690966861921978648
+    second: NicePng_game-sprite-png_2414725_141
+  - first:
+      213: 3726801037733305975
+    second: NicePng_game-sprite-png_2414725_142
+  - first:
+      213: 3772576531510833903
+    second: NicePng_game-sprite-png_2414725_143
+  - first:
+      213: 1126626608624721403
+    second: NicePng_game-sprite-png_2414725_144
+  - first:
+      213: 1597943714676568977
+    second: NicePng_game-sprite-png_2414725_145
+  - first:
+      213: 1380366551346014556
+    second: NicePng_game-sprite-png_2414725_146
+  - first:
+      213: -8259397296443998447
+    second: NicePng_game-sprite-png_2414725_147
+  - first:
+      213: -8160264705855102018
+    second: NicePng_game-sprite-png_2414725_148
+  - first:
+      213: -4783453170201083708
+    second: NicePng_game-sprite-png_2414725_149
+  - first:
+      213: 3064034622872975035
+    second: NicePng_game-sprite-png_2414725_150
+  - first:
+      213: 8135932631015092092
+    second: NicePng_game-sprite-png_2414725_151
+  - first:
+      213: -4502982444026679116
+    second: NicePng_game-sprite-png_2414725_152
+  - first:
+      213: -2062827085187129801
+    second: NicePng_game-sprite-png_2414725_153
+  - first:
+      213: -7234040178774283772
+    second: NicePng_game-sprite-png_2414725_154
+  - first:
+      213: 1695687382276144385
+    second: NicePng_game-sprite-png_2414725_155
+  - first:
+      213: -5167292673197518308
+    second: NicePng_game-sprite-png_2414725_156
+  - first:
+      213: 3890927985798206116
+    second: NicePng_game-sprite-png_2414725_157
+  - first:
+      213: -5176081305749792353
+    second: NicePng_game-sprite-png_2414725_158
+  - first:
+      213: -5852656422357650888
+    second: NicePng_game-sprite-png_2414725_159
+  - first:
+      213: -5194401404020442092
+    second: NicePng_game-sprite-png_2414725_160
+  - first:
+      213: 2147757252921323779
+    second: NicePng_game-sprite-png_2414725_161
+  - first:
+      213: -7999845612144894049
+    second: NicePng_game-sprite-png_2414725_162
+  - first:
+      213: -314415712494479835
+    second: NicePng_game-sprite-png_2414725_163
+  - first:
+      213: 6489523583927930948
+    second: NicePng_game-sprite-png_2414725_164
+  - first:
+      213: -6738422038198877185
+    second: NicePng_game-sprite-png_2414725_165
+  - first:
+      213: -5591947618413066876
+    second: NicePng_game-sprite-png_2414725_166
+  - first:
+      213: 2950495835328403631
+    second: NicePng_game-sprite-png_2414725_167
+  - first:
+      213: -2186598539004330983
+    second: NicePng_game-sprite-png_2414725_168
+  - first:
+      213: -1428579272133521842
+    second: NicePng_game-sprite-png_2414725_169
+  - first:
+      213: 3008886760786124913
+    second: NicePng_game-sprite-png_2414725_170
+  - first:
+      213: -3974273735182828491
+    second: NicePng_game-sprite-png_2414725_171
+  - first:
+      213: -5577996812689371893
+    second: NicePng_game-sprite-png_2414725_172
+  - first:
+      213: 3741916798161635305
+    second: NicePng_game-sprite-png_2414725_173
+  - first:
+      213: -7070118476832172461
+    second: NicePng_game-sprite-png_2414725_174
+  - first:
+      213: 278362125976956755
+    second: NicePng_game-sprite-png_2414725_175
+  - first:
+      213: -3926574223466797173
+    second: NicePng_game-sprite-png_2414725_176
+  - first:
+      213: 8589961204566900804
+    second: NicePng_game-sprite-png_2414725_177
+  - first:
+      213: -8941886617528523929
+    second: NicePng_game-sprite-png_2414725_178
+  - first:
+      213: 2480918934182277891
+    second: NicePng_game-sprite-png_2414725_179
+  - first:
+      213: -7023336404144489545
+    second: NicePng_game-sprite-png_2414725_180
+  - first:
+      213: -5616390290596578845
+    second: NicePng_game-sprite-png_2414725_181
+  - first:
+      213: -8548625869424112304
+    second: NicePng_game-sprite-png_2414725_182
+  - first:
+      213: -1346516993304984250
+    second: NicePng_game-sprite-png_2414725_183
+  - first:
+      213: 3181795769577811480
+    second: NicePng_game-sprite-png_2414725_184
+  - first:
+      213: -8100302855625152271
+    second: NicePng_game-sprite-png_2414725_185
+  - first:
+      213: -2531517914821491826
+    second: NicePng_game-sprite-png_2414725_186
+  - first:
+      213: 7589931592450222181
+    second: NicePng_game-sprite-png_2414725_187
+  - first:
+      213: 953360077482977642
+    second: NicePng_game-sprite-png_2414725_188
+  - first:
+      213: -6819408244624035764
+    second: NicePng_game-sprite-png_2414725_189
+  - first:
+      213: -8381670380394862728
+    second: NicePng_game-sprite-png_2414725_190
+  - first:
+      213: 4913163181838738455
+    second: NicePng_game-sprite-png_2414725_191
+  - first:
+      213: -6623191492779859430
+    second: NicePng_game-sprite-png_2414725_192
+  - first:
+      213: 6972719370174751304
+    second: NicePng_game-sprite-png_2414725_193
+  - first:
+      213: 7947448121686707164
+    second: NicePng_game-sprite-png_2414725_194
+  - first:
+      213: -8694285041168008882
+    second: NicePng_game-sprite-png_2414725_195
+  - first:
+      213: 5316218800732262768
+    second: NicePng_game-sprite-png_2414725_196
+  - first:
+      213: -218059072946100518
+    second: NicePng_game-sprite-png_2414725_197
+  - first:
+      213: 4991321739270962550
+    second: NicePng_game-sprite-png_2414725_198
+  - first:
+      213: 1834374465135368886
+    second: NicePng_game-sprite-png_2414725_199
+  - first:
+      213: 4487893290732880106
+    second: NicePng_game-sprite-png_2414725_200
+  - first:
+      213: 1855912420581426758
+    second: NicePng_game-sprite-png_2414725_201
+  - first:
+      213: -2662334469543817890
+    second: NicePng_game-sprite-png_2414725_202
+  - first:
+      213: -5071168458350098349
+    second: NicePng_game-sprite-png_2414725_203
+  - first:
+      213: 4177791913582764291
+    second: NicePng_game-sprite-png_2414725_204
+  - first:
+      213: -1903112441328835763
+    second: NicePng_game-sprite-png_2414725_205
+  - first:
+      213: -6103452329212532705
+    second: NicePng_game-sprite-png_2414725_206
+  - first:
+      213: 3695941959625737133
+    second: NicePng_game-sprite-png_2414725_207
+  - first:
+      213: -2850920091381619449
+    second: NicePng_game-sprite-png_2414725_208
+  - first:
+      213: -5320309703168200541
+    second: NicePng_game-sprite-png_2414725_209
+  - first:
+      213: 452807021485191309
+    second: NicePng_game-sprite-png_2414725_210
+  - first:
+      213: -5573879482297258172
+    second: NicePng_game-sprite-png_2414725_211
+  - first:
+      213: 1848678434271210953
+    second: NicePng_game-sprite-png_2414725_212
+  - first:
+      213: -4380510614551050443
+    second: NicePng_game-sprite-png_2414725_213
+  - first:
+      213: 1140788619019231617
+    second: NicePng_game-sprite-png_2414725_214
+  - first:
+      213: -4443160319934540990
+    second: NicePng_game-sprite-png_2414725_215
+  - first:
+      213: -5608097517494134659
+    second: NicePng_game-sprite-png_2414725_216
+  - first:
+      213: -3013894836858681535
+    second: NicePng_game-sprite-png_2414725_217
+  - first:
+      213: 3615757253062776541
+    second: NicePng_game-sprite-png_2414725_218
+  - first:
+      213: -3298877223908654255
+    second: NicePng_game-sprite-png_2414725_219
+  - first:
+      213: -658399665163335926
+    second: NicePng_game-sprite-png_2414725_220
+  - first:
+      213: 6822795300754892971
+    second: NicePng_game-sprite-png_2414725_221
+  - first:
+      213: 1170795098550560247
+    second: NicePng_game-sprite-png_2414725_222
+  - first:
+      213: 3062185245212924531
+    second: NicePng_game-sprite-png_2414725_223
+  - first:
+      213: 5619501436749540307
+    second: NicePng_game-sprite-png_2414725_224
+  - first:
+      213: 3140306349976392608
+    second: NicePng_game-sprite-png_2414725_225
+  - first:
+      213: 8745439879790015754
+    second: NicePng_game-sprite-png_2414725_226
+  - first:
+      213: 5424368971042071042
+    second: NicePng_game-sprite-png_2414725_227
+  - first:
+      213: -637189334275104009
+    second: NicePng_game-sprite-png_2414725_228
+  - first:
+      213: 6678611639084249482
+    second: NicePng_game-sprite-png_2414725_229
+  - first:
+      213: 5002858807600003494
+    second: NicePng_game-sprite-png_2414725_230
+  - first:
+      213: -4861521353997182436
+    second: NicePng_game-sprite-png_2414725_231
+  - first:
+      213: -1881971704472218343
+    second: NicePng_game-sprite-png_2414725_232
+  - first:
+      213: -3977209619491156588
+    second: NicePng_game-sprite-png_2414725_233
+  - first:
+      213: -613789787586109125
+    second: NicePng_game-sprite-png_2414725_234
+  - first:
+      213: 1528968938592327743
+    second: NicePng_game-sprite-png_2414725_235
+  - first:
+      213: -3433247630741450908
+    second: NicePng_game-sprite-png_2414725_236
+  - first:
+      213: 6965160795997565269
+    second: NicePng_game-sprite-png_2414725_237
+  - first:
+      213: -747446145650145371
+    second: NicePng_game-sprite-png_2414725_238
+  - first:
+      213: 3201131227602857389
+    second: NicePng_game-sprite-png_2414725_239
+  - first:
+      213: -8011314546706351103
+    second: NicePng_game-sprite-png_2414725_240
+  - first:
+      213: -6405551162777100380
+    second: NicePng_game-sprite-png_2414725_241
+  - first:
+      213: -4410889134642091185
+    second: NicePng_game-sprite-png_2414725_242
+  - first:
+      213: 6088931452488437773
+    second: NicePng_game-sprite-png_2414725_243
+  - first:
+      213: -2879543448782863582
+    second: NicePng_game-sprite-png_2414725_244
+  - first:
+      213: -8100707032753428260
+    second: NicePng_game-sprite-png_2414725_245
+  - first:
+      213: 2740548817935840728
+    second: NicePng_game-sprite-png_2414725_246
+  - first:
+      213: 3975728344908503927
+    second: NicePng_game-sprite-png_2414725_247
+  - first:
+      213: 2475664149950474068
+    second: NicePng_game-sprite-png_2414725_248
+  - first:
+      213: -4121552603663292295
+    second: NicePng_game-sprite-png_2414725_249
+  - first:
+      213: -926913371478734341
+    second: NicePng_game-sprite-png_2414725_250
+  - first:
+      213: -9159015286146928551
+    second: NicePng_game-sprite-png_2414725_251
+  - first:
+      213: 4782408567701055084
+    second: NicePng_game-sprite-png_2414725_252
+  - first:
+      213: -1987482559963803588
+    second: NicePng_game-sprite-png_2414725_253
+  - first:
+      213: 1725077445747353604
+    second: NicePng_game-sprite-png_2414725_254
+  - first:
+      213: -6117573352135168326
+    second: NicePng_game-sprite-png_2414725_255
+  - first:
+      213: -5747369927752732548
+    second: NicePng_game-sprite-png_2414725_256
+  - first:
+      213: -1289191241617892535
+    second: NicePng_game-sprite-png_2414725_257
+  - first:
+      213: 2605163052909655478
+    second: NicePng_game-sprite-png_2414725_258
+  - first:
+      213: 4018425228082589250
+    second: NicePng_game-sprite-png_2414725_259
+  - first:
+      213: 5289881165480240175
+    second: NicePng_game-sprite-png_2414725_260
+  - first:
+      213: -5142214907531110254
+    second: NicePng_game-sprite-png_2414725_261
+  - first:
+      213: 3859132961181390388
+    second: NicePng_game-sprite-png_2414725_262
+  - first:
+      213: -7749552325267537102
+    second: NicePng_game-sprite-png_2414725_263
+  - first:
+      213: -1617301086270444026
+    second: NicePng_game-sprite-png_2414725_264
+  - first:
+      213: -6289036623404711548
+    second: NicePng_game-sprite-png_2414725_265
+  - first:
+      213: -646511358173959161
+    second: NicePng_game-sprite-png_2414725_266
+  - first:
+      213: -6379782687057414788
+    second: NicePng_game-sprite-png_2414725_267
+  - first:
+      213: 8101661036072242574
+    second: NicePng_game-sprite-png_2414725_268
+  - first:
+      213: 5974868635047955977
+    second: NicePng_game-sprite-png_2414725_269
+  - first:
+      213: 2851588628136770049
+    second: NicePng_game-sprite-png_2414725_270
+  - first:
+      213: 5626976915992830857
+    second: NicePng_game-sprite-png_2414725_271
+  - first:
+      213: 4943567966032058715
+    second: NicePng_game-sprite-png_2414725_272
+  - first:
+      213: 3893183093976471001
+    second: NicePng_game-sprite-png_2414725_273
+  - first:
+      213: -9201284811533548319
+    second: NicePng_game-sprite-png_2414725_274
+  - first:
+      213: 4238459158051363423
+    second: NicePng_game-sprite-png_2414725_275
+  - first:
+      213: -7124767750730814084
+    second: NicePng_game-sprite-png_2414725_276
+  - first:
+      213: -8714537817609753625
+    second: NicePng_game-sprite-png_2414725_277
+  - first:
+      213: 4474841515744460330
+    second: NicePng_game-sprite-png_2414725_278
+  - first:
+      213: 356925147485876847
+    second: NicePng_game-sprite-png_2414725_279
+  - first:
+      213: -8685054859769464507
+    second: NicePng_game-sprite-png_2414725_280
+  - first:
+      213: -8579522503603564771
+    second: NicePng_game-sprite-png_2414725_281
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f5b828f38321d0800000000000000
+      internalID: -3376710193739598653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71a04c7be451160800000000000000
+      internalID: 6995584147364911062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc3cc81102b8a10800000000000000
+      internalID: 1912657726497082844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0963f89f057cfec0800000000000000
+      internalID: -3531819297914263285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b919ec46cc8c26db0800000000000000
+      internalID: -4800053472633384549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744cab58d3f5b71b0800000000000000
+      internalID: -5657823789019642809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce6d082833dd790800000000000000
+      internalID: -7503784768529044240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35c0592e59a7680800000000000000
+      internalID: -8756521725072747544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc15ab8ce2451940800000000000000
+      internalID: 5266188923002232023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce5092385875430800000000000000
+      internalID: 3771630011321543862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2ca20bab54c2350800000000000000
+      internalID: 5993241872245113574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6bd9dec663e6590800000000000000
+      internalID: -7679140473149212932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a648f34b682032b0800000000000000
+      internalID: -5606937094909311328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bbc020baa836d20800000000000000
+      internalID: 3270610221479541520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81503f6a4aaaa8f0800000000000000
+      internalID: -528422769592872566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9648f7eb5c13d700800000000000000
+      internalID: 563825559410853530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7809e9c0caad95fc0800000000000000
+      internalID: -3505530402450272121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191f62555c4f42b0800000000000000
+      internalID: -5598171882459293409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8d25e14b2fbe50800000000000000
+      internalID: 6827223122134797015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565121e0787352dd0800000000000000
+      internalID: -2511540163993004699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f3499808d120a70800000000000000
+      internalID: 8791621860481842994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50608f1af3dcb30a0800000000000000
+      internalID: -6900696330831133179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a5f662a5bb90c20800000000000000
+      internalID: 3173273408325507726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f785b3e1211ba0800000000000000
+      internalID: -6120073156732914837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99445641ba0bfb6f0800000000000000
+      internalID: -666619970999466855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4efb8fa77e3140800000000000000
+      internalID: 4701326656873058277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc89ffbde3ae3f650800000000000000
+      internalID: 6265609062302324940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af261e60ab0e410800000000000000
+      internalID: 1504406814255675982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f20ae8e7b28bf0800000000000000
+      internalID: -323494012230896933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64001c5a36ae79b10800000000000000
+      internalID: 1988315474210914374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54335748f7cad1f0800000000000000
+      internalID: -1019282496483543970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab0f1c3fae7f9f10800000000000000
+      internalID: 2278679227565804450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2995ddf52e73eabf0800000000000000
+      internalID: -311249878831507054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ae5a1533f1a220800000000000000
+      internalID: 2495543077941192558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693a3e6b29d02ae0800000000000000
+      internalID: -1576021089023542940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c03df9c8d0cc30800000000000000
+      internalID: 4377737199851979796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b910bd1e52b2680800000000000000
+      internalID: -8778881396656465050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ba2bf808518470800000000000000
+      internalID: 8395087975992177616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4bc9747bd7e4170800000000000000
+      internalID: 8164601400603227363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cc558cdc50b7b90800000000000000
+      internalID: -7243189194307810183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3041895211de3c0800000000000000
+      internalID: -4328784813670268000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948064ee381866470800000000000000
+      internalID: 8387533759662393417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa57fee1b7507c80800000000000000
+      internalID: -8327059289278031198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fef987dfe02fe560800000000000000
+      internalID: 7345125731749986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc290920e8d2440800000000000000
+      internalID: 4912738910197697566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 319
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc24368a3fa6e6ac0800000000000000
+      internalID: -3860030235875261749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0137f45a97df20800000000000000
+      internalID: 3447393729490520925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27ff4ace39bddb0800000000000000
+      internalID: -4766053136051768633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 299
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d657cf8fa8d303540800000000000000
+      internalID: 4985552454591214957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8741c315e5c512660800000000000000
+      internalID: 7359264826259674232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777168fd3239d4530800000000000000
+      internalID: 3840887839500146551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63811293f783e40800000000000000
+      internalID: 5636394816999274199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5660f707d90ec3b0800000000000000
+      internalID: -5490440076562241954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730a3d45fbb98f550800000000000000
+      internalID: 6194872533512331319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be287e56cbdc6790800000000000000
+      internalID: -7535406431462740301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90a062e23c3a6690800000000000000
+      internalID: -7608202431245016931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3bfd58f197df380800000000000000
+      internalID: -8935852909336218689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7701461c18f16a90800000000000000
+      internalID: -7322298719611582597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d0d15218c98710800000000000000
+      internalID: 1696106715689308214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56586a98aca4ac00800000000000000
+      internalID: 911042864780695134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 299
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5032fc4733e5030800000000000000
+      internalID: 3485279738415744490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203270c1a34dbba20800000000000000
+      internalID: 3079288116281287426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d302e8e2ad1785e0800000000000000
+      internalID: -1907523331639082030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b737db77e3a3b4f0800000000000000
+      internalID: -814126893013452872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b230b569ef15e90800000000000000
+      internalID: -7038564820877890727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a01aab078c04fdf0800000000000000
+      internalID: -147479113640570715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb276f4c41432ae80800000000000000
+      internalID: -8168909510288182596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 263
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d390bb8be93470800000000000000
+      internalID: 8374983967267608919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2d07e9310fcf00800000000000000
+      internalID: 1139130578949188324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d87eaf61229880800000000000000
+      internalID: -8605779174399355315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93078027bfd4da630800000000000000
+      internalID: 3939890991364337721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d3843f85a8a3d0800000000000000
+      internalID: -3195121901139406297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2769b860340e80800000000000000
+      internalID: -8213386594071663403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925dcd284787a2390800000000000000
+      internalID: -7842323359305247447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 279
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3426998fa9f59070800000000000000
+      internalID: 8112664836100727868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942355f5aae9ad120800000000000000
+      internalID: 2439436602755592777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acfa4e219ea9440800000000000000
+      internalID: 4943519808347949704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff38428a84e6c490800000000000000
+      internalID: -7726236827165114384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b57a3f1e7588c0800000000000000
+      internalID: -3997650421631569120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78f761609e607860800000000000000
+      internalID: 7525636543724648572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cc7a680a752c310800000000000000
+      internalID: 1423796779168025627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fb7c4ba95b40a0800000000000000
+      internalID: -6896319812130309920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de751310e20788f0800000000000000
+      internalID: -538458469031379246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb09e8c1c3022f80800000000000000
+      internalID: -8132933846243406858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80759d68a80b32680800000000000000
+      internalID: -8780980739427969272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb1236665ae54f0800000000000000
+      internalID: -838050621475930579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee520c019cb3030800000000000000
+      internalID: 3475592611226840732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccceb6c45f936d80800000000000000
+      internalID: -8258582105206895424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368f94f4ea2d8b10800000000000000
+      internalID: 1985290173585262133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49c442d04de6a40800000000000000
+      internalID: 5363457359153501344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba42ddbc56519ef0800000000000000
+      internalID: -103206360131155270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69eb8c802ce4ea60800000000000000
+      internalID: 7702540887251478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd5084711989ea0800000000000000
+      internalID: -5865778985471451667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8918ceb9bc8f34160800000000000000
+      internalID: 7008718998496641432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f9f05af43c86f20800000000000000
+      internalID: 3416195064199618400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ccc329615789fc0800000000000000
+      internalID: -3487909171595260873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa048b8145a09b10800000000000000
+      internalID: 1986269136602532526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec04742a26f2fb9e0800000000000000
+      internalID: -1603510841644728114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21633edcaf7af70800000000000000
+      internalID: 9198596526114738920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28220a05cf05baa60800000000000000
+      internalID: 7686326233652535938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c86c863dadc0820800000000000000
+      internalID: 2885922062768442524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 239
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c10ffa4d0aaa540800000000000000
+      internalID: 5020001570003098663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda05cddd32bbb540800000000000000
+      internalID: 5024805788045347551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f87cdbad51d6720800000000000000
+      internalID: 2840950969171677079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eada076a2326fd4f0800000000000000
+      internalID: -801814238968369746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_105
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d188c6a2897ae900800000000000000
+      internalID: 714517092942512595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df26a31c4ec19e0800000000000000
+      internalID: -1649191844965057261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a5529a31392c30800000000000000
+      internalID: 4335050243953762866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d335fb48366240800000000000000
+      internalID: 4784573553015247467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a9f213978e67e0800000000000000
+      internalID: -1770328537761732654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f07488a22a9360800000000000000
+      internalID: 7177087063340152285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0850d0d44c95c0800000000000000
+      internalID: -4207412288231567674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8661f0732c81590800000000000000
+      internalID: -7703193620885116688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_113
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d4f3c1bc8ea0eb0800000000000000
+      internalID: -4752730497686221463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf075d2e3bb16260800000000000000
+      internalID: 7089153164180918218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_115
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465839415ebb59e0800000000000000
+      internalID: -1631501183661615544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ff34e5d9429c10800000000000000
+      internalID: 2058789162667996540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4fe583c6349f20800000000000000
+      internalID: 3428425429729365412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5846c2281698950800000000000000
+      internalID: 6451795152903374290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980c44a8d0ed91d0800000000000000
+      internalID: -3342268127365035883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af7b1ff0ca83f8d0800000000000000
+      internalID: -2813752780658081884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_121
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a470deb72c88460800000000000000
+      internalID: 7244253838138886809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f30cf70832b6ac0800000000000000
+      internalID: -3860953220733976767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_123
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d81654fdf10d030800000000000000
+      internalID: 3517346352778546572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa7ea2317a2ea80800000000000000
+      internalID: -8438999050972845366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_125
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90865167752d5e620800000000000000
+      internalID: 2802877616193103881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc9e2ee1eab98d0800000000000000
+      internalID: -2838483692447740122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef2da25d2f2ce70800000000000000
+      internalID: 9134129991621213920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_128
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76341ddfa2f29b20800000000000000
+      internalID: 3139838727372945021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_129
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d831302604261bd0800000000000000
+      internalID: -2659898921187198768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb1884a38fb19a0800000000000000
+      internalID: -6261137927720289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_131
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3c5d09ae4ac9f0800000000000000
+      internalID: -447458724989354862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_132
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089c5591ba79ed50800000000000000
+      internalID: 6767074818234554383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4980f9385bb71ae0800000000000000
+      internalID: -1578587156766488245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e94fd5157c51c220800000000000000
+      internalID: 2504384525742590440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_135
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21dea65c73e31d50800000000000000
+      internalID: 6706954393254547755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fcbef341743220800000000000000
+      internalID: 2464719432929047809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_137
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621465c789ea8ed10800000000000000
+      internalID: 2155164391641071910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b9a6a309245a380800000000000000
+      internalID: -8960682696360944875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd1ca98ee63f0190800000000000000
+      internalID: -7994110415419466296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbd19f9ac4540e60800000000000000
+      internalID: 7927554473316178876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_141
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81905338a1c385520800000000000000
+      internalID: 2690966861921978648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e96a26cc148b330800000000000000
+      internalID: 3726801037733305975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2bda01e52ea5430800000000000000
+      internalID: 3772576531510833903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_144
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd54917ee492af00800000000000000
+      internalID: 1126626608624721403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937d5c97590d2610800000000000000
+      internalID: 1597943714676568977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c596fc0a01c082310800000000000000
+      internalID: 1380366551346014556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_147
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f32a64be9b06d80800000000000000
+      internalID: -8259397296443998447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_148
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb369562c7ae0ce80800000000000000
+      internalID: -8160264705855102018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_149
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 179
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c27e7fa2cd9db0800000000000000
+      internalID: -4783453170201083708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb677db6143a58a20800000000000000
+      internalID: 3064034622872975035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe9243f93a8e070800000000000000
+      internalID: 8135932631015092092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b038f133513281c0800000000000000
+      internalID: -4502982444026679116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_153
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73edd5202bd5f53e0800000000000000
+      internalID: -2062827085187129801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6145f8c68b9b90800000000000000
+      internalID: -7234040178774283772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7ea6a0ba488710800000000000000
+      internalID: 1695687382276144385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c125593f0b61a48b0800000000000000
+      internalID: -5167292673197518308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d028536a5ff530800000000000000
+      internalID: 3890927985798206116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995e3af97dda28b0800000000000000
+      internalID: -5176081305749792353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b6f81eff27cea0800000000000000
+      internalID: -5852656422357650888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3294b177c9e7b0800000000000000
+      internalID: -5194401404020442092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f42c97dd5ecd10800000000000000
+      internalID: 2147757252921323779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_162
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fd22efcc6daf090800000000000000
+      internalID: -7999845612144894049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_163
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52617f84398f2abf0800000000000000
+      internalID: -314415712494479835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_164
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 159
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4405b8d015b6f0a50800000000000000
+      internalID: 6489523583927930948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff30e72abd05c72a0800000000000000
+      internalID: -6738422038198877185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c5e9b4496562b0800000000000000
+      internalID: -5591947618413066876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_167
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d400745442f820800000000000000
+      internalID: 2950495835328403631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_168
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3240c634a7a1e0800000000000000
+      internalID: -2186598539004330983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ecefe88baac2ce0800000000000000
+      internalID: -1428579272133521842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17068023196b1c920800000000000000
+      internalID: 3008886760786124913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_171
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c334e281b88d8c0800000000000000
+      internalID: -3974273735182828491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_172
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d836dc379f692b0800000000000000
+      internalID: -5577996812689371893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7cd7d9085fde330800000000000000
+      internalID: 3741916798161635305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_174
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3561e7454b4e1ed90800000000000000
+      internalID: -7070118476832172461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f67c5f0e0fcd300800000000000000
+      internalID: 278362125976956755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_176
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876e023c810289c0800000000000000
+      internalID: -3926574223466797173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_177
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c898343ca53770800000000000000
+      internalID: 8589961204566900804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_178
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a46c5f7908e380800000000000000
+      internalID: -8941886617528523929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303b97c40aefd6220800000000000000
+      internalID: 2480918934182277891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_180
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf5ec60c8188e90800000000000000
+      internalID: -7023336404144489545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b901a9c29e02b0800000000000000
+      internalID: -5616390290596578845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_182
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc247701e2d5980800000000000000
+      internalID: -8548625869424112304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458702cde5305de0800000000000000
+      internalID: -1346516993304984250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_184
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ea6810562082c20800000000000000
+      internalID: 3181795769577811480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_185
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f861655871f59f80800000000000000
+      internalID: -8100302855625152271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_186
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8307887edd3edcd0800000000000000
+      internalID: -2531517914821491826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a285f19ad45960800000000000000
+      internalID: 7589931592450222181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_188
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69696970f30b3d00800000000000000
+      internalID: 953360077482977642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_189
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4070d015589c51a0800000000000000
+      internalID: -6819408244624035764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877a62072335eab80800000000000000
+      internalID: -8381670380394862728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_191
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a60102ef0f2440800000000000000
+      internalID: 4913163181838738455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_192
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12a771bd62b514a0800000000000000
+      internalID: -6623191492779859430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_193
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 119
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84260c9f25314c060800000000000000
+      internalID: 6972719370174751304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb4bf395f10b4e60800000000000000
+      internalID: 7947448121686707164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_195
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e493031c1d1b75780800000000000000
+      internalID: -8694285041168008882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_196
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07156ed25d007c940800000000000000
+      internalID: 5316218800732262768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_197
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62ff0bd6c49fcf0800000000000000
+      internalID: -218059072946100518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_198
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d3eec3dacb44540800000000000000
+      internalID: 4991321739270962550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_199
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad07b6bd1057910800000000000000
+      internalID: 1834374465135368886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_200
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae00ef78b23384e30800000000000000
+      internalID: 4487893290732880106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_201
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646cdf2738681c910800000000000000
+      internalID: 1855912420581426758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d0095d7ec7d0bd0800000000000000
+      internalID: -2662334469543817890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_203
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35880e3c7279f99b0800000000000000
+      internalID: -5071168458350098349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a99a4c9f7af930800000000000000
+      internalID: 4177791913582764291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_205
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e7f65159c695e0800000000000000
+      internalID: -1903112441328835763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_206
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a1cda17e2c4ba0800000000000000
+      internalID: -6103452329212532705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_207
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da304fd51af9a4330800000000000000
+      internalID: 3695941959625737133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705ac2e184f7f68d0800000000000000
+      internalID: -2850920091381619449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_209
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0789f53867a26b0800000000000000
+      internalID: -5320309703168200541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_210
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807d634691b84600800000000000000
+      internalID: 452807021485191309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_211
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f65dc742a95a2b0800000000000000
+      internalID: -5573879482297258172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_212
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd29a2cd33d7a910800000000000000
+      internalID: 1848678434271210953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374bd41ecc4533c0800000000000000
+      internalID: -4380510614551050443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_214
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18123707435e4df00800000000000000
+      internalID: 1140788619019231617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d03ada39b652c0800000000000000
+      internalID: -4443160319934540990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_216
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78130455090c22b0800000000000000
+      internalID: -5608097517494134659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_217
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14787aa3d9e7c26d0800000000000000
+      internalID: -3013894836858681535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_218
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd659d68010cd2230800000000000000
+      internalID: 3615757253062776541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534c4f94a80832d0800000000000000
+      internalID: -3298877223908654255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_220
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0704bd2ef4ecd6f0800000000000000
+      internalID: -658399665163335926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_221
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba823b46d207fae50800000000000000
+      internalID: 6822795300754892971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_222
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5efd160ff7f3010800000000000000
+      internalID: 1170795098550560247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_223
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37adb51a1411f7a20800000000000000
+      internalID: 3062185245212924531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_224
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe04888ca7cfd40800000000000000
+      internalID: 5619501436749540307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31f3cbcfb949b20800000000000000
+      internalID: 3140306349976392608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_226
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a053b6f3c3b0e5970800000000000000
+      internalID: 8745439879790015754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_227
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2022d91f6da374b40800000000000000
+      internalID: 5424368971042071042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_228
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26ddb2daf3827f0800000000000000
+      internalID: -637189334275104009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f764a6e13fac50800000000000000
+      internalID: 6678611639084249482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9be684499bd6540800000000000000
+      internalID: 5002858807600003494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_231
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a95030618688cb0800000000000000
+      internalID: -4861521353997182436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d895b4b4e1e5e0800000000000000
+      internalID: -1881971704472218343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_233
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d86f85cec1ec8c0800000000000000
+      internalID: -3977209619491156588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_234
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 59
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31ea20b0716b77f0800000000000000
+      internalID: -613789787586109125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_235
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38d669162df73510800000000000000
+      internalID: 1528968938592327743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f44bf4877aa50d0800000000000000
+      internalID: -3433247630741450908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_237
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55179e847d839a060800000000000000
+      internalID: 6965160795997565269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_238
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c9cfc0b980a5f0800000000000000
+      internalID: -747446145650145371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_239
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadada424e3bc6c20800000000000000
+      internalID: 3201131227602857389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_240
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cf5a39dd712d090800000000000000
+      internalID: -8011314546706351103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_241
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af9410d729ea17a0800000000000000
+      internalID: -6405551162777100380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_242
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b2702b3bf59c2c0800000000000000
+      internalID: -4410889134642091185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_243
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d64f35ea308450800000000000000
+      internalID: 6088931452488437773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_244
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238ef36d7ec908d0800000000000000
+      internalID: -2879543448782863582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_245
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd829338fd1849f80800000000000000
+      internalID: -8100707032753428260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_246
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5beae31a2680620800000000000000
+      internalID: 2740548817935840728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_247
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b19b98ddf9c2730800000000000000
+      internalID: 3975728344908503927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_248
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457a7f08d635b5220800000000000000
+      internalID: 2475664149950474068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_249
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978209f6ebd4dc6c0800000000000000
+      internalID: -4121552603663292295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9437b1331f223f0800000000000000
+      internalID: -926913371478734341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f6d0bf14a4e080800000000000000
+      internalID: -9159015286146928551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c662b9801478e5240800000000000000
+      internalID: 4782408567701055084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d210542b0b64e0800000000000000
+      internalID: -1987482559963803588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4082fcb0cc4b0f710800000000000000
+      internalID: 1725077445747353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_255
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6692d2730a1ba0800000000000000
+      internalID: -6117573352135168326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_256
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703987608d3d30b0800000000000000
+      internalID: -5747369927752732548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_257
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b12db656fdb1ee0800000000000000
+      internalID: -1289191241617892535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f6ae6ef5672420800000000000000
+      internalID: 2605163052909655478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ea454547054c730800000000000000
+      internalID: 4018425228082589250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24aa7c94ee696940800000000000000
+      internalID: 5289881165480240175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_261
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298d3e549ce23a8b0800000000000000
+      internalID: -5142214907531110254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d73c4bf46e8530800000000000000
+      internalID: 3859132961181390388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_263
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334024183f047490800000000000000
+      internalID: -7749552325267537102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_264
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2ff91b313e89e0800000000000000
+      internalID: -1617301086270444026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_265
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4814a82038ad8b8a0800000000000000
+      internalID: -6289036623404711548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c29c858512707f0800000000000000
+      internalID: -646511358173959161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_267
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7571c992757677a0800000000000000
+      internalID: -6379782687057414788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_268
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d85b1b9c1ee6070800000000000000
+      internalID: 8101661036072242574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_269
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e08ab0e5ffae250800000000000000
+      internalID: 5974868635047955977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_270
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ab2a9bfb0e29720800000000000000
+      internalID: 2851588628136770049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_271
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983631d21b9071e40800000000000000
+      internalID: 5626976915992830857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_272
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59575a7fd41b9440800000000000000
+      internalID: 4943567966032058715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_273
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51602a56d570630800000000000000
+      internalID: 3893183093976471001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_274
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e48853e6387e4080800000000000000
+      internalID: -9201284811533548319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_275
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a17aed52802da30800000000000000
+      internalID: 4238459158051363423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_276
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de786ba7dbf1d90800000000000000
+      internalID: -7124767750730814084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_277
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba9a7c60ebf0780800000000000000
+      internalID: -8714537817609753625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_278
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7e1c56a4d91e30800000000000000
+      internalID: 4474841515744460330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_279
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62bc43d78d04f400800000000000000
+      internalID: 356925147485876847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_280
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54939a4de9c787780800000000000000
+      internalID: -8685054859769464507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_game-sprite-png_2414725_281
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4d3e3db96fe880800000000000000
+      internalID: -8579522503603564771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
