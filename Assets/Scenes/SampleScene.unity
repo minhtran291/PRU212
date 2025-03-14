@@ -2572,6 +2572,11 @@ MonoBehaviour:
   decreaseCarpenterButton: {fileID: 1688575615}
   increaseMinerButton: {fileID: 1486258307}
   decreaseMinerButton: {fileID: 462034686}
+  farmerPrefab: {fileID: 509014385380943983, guid: 43848099a1cb14142b3bedd36a3622b2, type: 3}
+  soldierPrefab: {fileID: 169531732084803749, guid: f21f7f35e424b40449ab0d3634921c5f, type: 3}
+  carpenterPrefab: {fileID: 7899712497965492134, guid: 539d7b0db9e6a8445a22bacb8ec03c3f, type: 3}
+  minerPrefab: {fileID: 6682136480376988409, guid: efde6d0016ba049468f719ffdf81e498, type: 3}
+  spawnPoint: {fileID: 1710657106}
 --- !u!4 &1063845366
 Transform:
   m_ObjectHideFlags: 0
@@ -4443,6 +4448,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1688575613}
   m_CullTransparentMesh: 1
+--- !u!1 &1710657105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1710657106}
+  m_Layer: 0
+  m_Name: Spawnpoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1710657106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710657105}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1889411443
 GameObject:
   m_ObjectHideFlags: 0
@@ -5392,3 +5428,4 @@ SceneRoots:
   - {fileID: 1263092299}
   - {fileID: 860280074}
   - {fileID: 842543038}
+  - {fileID: 1710657106}

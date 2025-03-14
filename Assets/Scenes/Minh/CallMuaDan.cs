@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -29,6 +30,18 @@ public class CallMuaDan : MonoBehaviour
     public Button increaseCarpenterButton, decreaseCarpenterButton;
     public Button increaseMinerButton, decreaseMinerButton;
 
+    public GameObject farmerPrefab;
+    public GameObject soldierPrefab;
+    public GameObject carpenterPrefab;
+    public GameObject minerPrefab;
+
+    public Transform spawnPoint;
+
+    private List<GameObject> farmerList = new List<GameObject>();
+    private List<GameObject> soldierList = new List<GameObject>();
+    private List<GameObject> carpenterList = new List<GameObject>();
+    private List<GameObject> minerList = new List<GameObject>();
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -46,7 +59,26 @@ public class CallMuaDan : MonoBehaviour
         panel.SetActive(!panel.activeSelf);
     }
 
-    // tang sl nhan
+    // ham chung de tao doi tuong
+    private GameObject SpawnCharacter(GameObject prefab, List<GameObject> list)
+    {
+        GameObject newObj = Instantiate(prefab, spawnPoint.position, Quaternion.identity);
+        list.Add(newObj); 
+        return newObj;
+    }
+
+    // ham chung de xoa doi tuong
+    private void RemoveCharacter(List<GameObject> list)
+    {
+        if (list.Count > 0)
+        {
+            GameObject objToRemove = list[list.Count - 1]; // lay doi tuong cuoi cung
+            list.RemoveAt(list.Count - 1); // xoa khoi danh sach
+            Destroy(objToRemove); // huy doi tuong
+        }
+    }
+
+    // tang sl dan
     public void IncreaseFarmer()
     {
         if (unsignedCount > 0 && totalCount > 0)
@@ -54,6 +86,8 @@ public class CallMuaDan : MonoBehaviour
             farmerCount++;
             unsignedCount--;
             signedCount++;
+
+            SpawnCharacter(farmerPrefab, farmerList);
         }
         UpdateUI();
         //Debug.Log(farmerCount);
@@ -65,6 +99,8 @@ public class CallMuaDan : MonoBehaviour
             soldierCount++;
             unsignedCount--;
             signedCount++;
+
+            SpawnCharacter(soldierPrefab, soldierList);
         }
         UpdateUI();
     }
@@ -75,6 +111,8 @@ public class CallMuaDan : MonoBehaviour
             carpenterCount++;
             unsignedCount--;
             signedCount++;
+
+            SpawnCharacter(carpenterPrefab, carpenterList);
         }
         UpdateUI();
     }
@@ -85,6 +123,8 @@ public class CallMuaDan : MonoBehaviour
             minerCount++;
             unsignedCount--;
             signedCount++;
+
+            SpawnCharacter(minerPrefab, minerList);
         }
         UpdateUI();
     }
@@ -97,6 +137,8 @@ public class CallMuaDan : MonoBehaviour
             farmerCount--;
             unsignedCount++;
             signedCount--;
+
+            RemoveCharacter(farmerList);
         }
         UpdateUI();
     }
@@ -107,6 +149,8 @@ public class CallMuaDan : MonoBehaviour
             soldierCount--;
             unsignedCount++;
             signedCount--;
+
+            RemoveCharacter(soldierList);
         }
         UpdateUI();
     }
@@ -117,6 +161,8 @@ public class CallMuaDan : MonoBehaviour
             carpenterCount--;
             unsignedCount++;
             signedCount--;
+
+            RemoveCharacter(carpenterList);
         }
         UpdateUI();
     }
@@ -127,6 +173,8 @@ public class CallMuaDan : MonoBehaviour
             minerCount--;
             unsignedCount++;
             signedCount--;
+
+            RemoveCharacter(minerList);
         }
         UpdateUI();
     }
