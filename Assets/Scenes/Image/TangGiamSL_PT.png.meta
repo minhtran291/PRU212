@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TangGiamSL_PT_0: -7543124004898639023
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
