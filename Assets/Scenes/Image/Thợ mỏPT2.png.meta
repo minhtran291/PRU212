@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bc9afd8ff76575e4daea6b703cd7494f
+guid: 65db89e3f1f4c614cb40cefb6147a911
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6124535499641642896
-    second: Gold_1_0
+      213: -529310401801386973
+    second: "Th\u1EE3 m\u1ECFPT2_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gold_1_0
+      name: "Th\u1EE3 m\u1ECFPT2_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 563
-        height: 564
+        x: 28
+        y: 36
+        width: 56
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09fd8667698bef450800000000000000
-      internalID: 6124535499641642896
+      spriteID: 32485b47ef287a8f0800000000000000
+      internalID: -529310401801386973
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Gold_1_0: 6124535499641642896
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
