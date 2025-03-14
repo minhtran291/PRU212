@@ -1,32 +1,50 @@
+using System.Collections;
 using UnityEngine;
-
 public class CharacterMovement : MonoBehaviour
 {
     public float moveSpeed = 2f; // toc do di chuyen
-    private Vector2 targetPosition; // Vi tri muc tieu di chuyen den
+    private Vector2 targetPosition; // Vi tri muc tieu
+    private bool isMoving = true; // kiem tra xem doi tuong co dang di hay ko
     void Start()
     {
-        ChooseNewTarget(); // chon vi tri ngau nhien ban dau
+        // dat vi tri ban dau
+        targetPosition = new Vector2(-10f, 0f);
     }
 
     // Update is called once per frame
     void Update()
     {
-        // di chuyen doi tuong den vi tri muc tieu
-        transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
-
-        // khi den gan vi tri muc tieu chon vi tri moi
-        if (Vector2.Distance(transform.position, targetPosition) < 0.1f)
+        if (isMoving)
         {
-            ChooseNewTarget();
+            // di chuyen doi tuong ve phia muc tieu
+            transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
+
+            // kiem tra den gan muc tieu hay chua
+            if (Vector2.Distance(transform.position, targetPosition) < 0.1f)
+            {
+                isMoving = false; // dung khi den muc tieu
+                StartCoroutine(WaitAndChooseNewTarget()); // cho 10 giay va chon muc tieu moi
+            }
         }
     }
 
-    void ChooseNewTarget()
+    IEnumerator WaitAndChooseNewTarget()
     {
-        float randomX = Random.Range(-5f, 5f); // gioi han pham vi di chuyen X
-        float randomY = Random.Range(-5f, 5f); // gioi han pham vi di chuyen Y
+        // cho 10 giay
+        yield return new WaitForSeconds(5f);
 
-        targetPosition = new Vector2(randomX, randomY); // cap nhat vi tri ngau nhien
+        if (targetPosition.x == -10f)
+        {
+            targetPosition = new Vector2(-1.5f, 0f); // dat muc tieu quay lai -1.5
+        }
+        else
+        {
+            targetPosition = new Vector2(-10f, 0f); // dat muc tieu la -10
+        }
+
+        // neu muc tieu hien tai la -10 quay lai -1.5
+        isMoving = true; // bat dau di chuyen muc tieu moi
     }
+
 }
+
