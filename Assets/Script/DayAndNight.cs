@@ -8,8 +8,11 @@ using UnityEngine.UI;
 public class DayAndNight : MonoBehaviour
 {
     [SerializeField] public TextMeshProUGUI textTimeinGame;
-    [SerializeField] public float dayDuration = 50f;
+    [SerializeField] public float dayDuration = 100f;
+    [SerializeField] private AudioManager AudioManager;
+
     public Light2D light2D;
+    private bool isDay = false;
 
     public void Update()
     {
@@ -25,11 +28,21 @@ public class DayAndNight : MonoBehaviour
 
         if (gameHours >= 23 || gameHours < 5)
         {
-            light2D.intensity = 0.3f; 
+            light2D.intensity = 0.3f;
+            if (isDay == false)
+            {
+                AudioManager.PlayDayAudioSource();
+                isDay = true;
+            }
         }
         else
         {
             light2D.intensity = 1.0f;
+            if(isDay == true)
+            {
+                AudioManager.PlayNightAudioSource();
+                isDay = false;
+            }
         }
     }
 }
