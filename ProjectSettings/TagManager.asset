@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BuildingPlace
   - Walls
+  - Gate
   layers:
   - Default
   - TransparentFX
