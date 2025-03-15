@@ -19,4 +19,5 @@ public class EnemyManager : MonoBehaviour
         Vector2 move = transform.right;
         rb.linearVelocity = move.normalized*moveSpeed*Time.deltaTime;
     }
+   
 }
