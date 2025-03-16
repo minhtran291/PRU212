@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BuildingPlace
   - Walls
+  - Gate
   layers:
   - Default
   - TransparentFX
@@ -43,20 +44,29 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer 1
-    uniqueID: 2044329085
-    locked: 0
   - name: Ground
     uniqueID: 2504899697
     locked: 0
-  - name: Tree
-    uniqueID: 1414515683
+  - name: Wall
+    uniqueID: 3582948651
+    locked: 0
+  - name: Player
+    uniqueID: 2044329085
     locked: 0
   - name: BuildingPlace
     uniqueID: 998463893
     locked: 0
-  - name: Wall
-    uniqueID: 3582948651
+  - name: Enemy
+    uniqueID: 1258819903
+    locked: 0
+  - name: BaseHome
+    uniqueID: 938458613
+    locked: 0
+  - name: Tree
+    uniqueID: 1414515683
+    locked: 0
+  - name: UI
+    uniqueID: 3015738363
     locked: 0
   m_RenderingLayers:
   - Default
