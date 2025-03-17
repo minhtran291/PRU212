@@ -78,6 +78,11 @@ public class EnemyManager : MonoBehaviour
                     FindClosestTarget(); 
                 }
             }
+        }else if (collision.gameObject.CompareTag("Base"))
+        {
+            var baseHouse = collision.gameObject.GetComponent<BaseHouseManager>();
+            baseHouse.TakeDamage(damage);
+            
         }
     }
 
@@ -112,6 +117,7 @@ public class EnemyManager : MonoBehaviour
 
         if (closestTarget != null)
         {
+            Debug.Log(closestTarget.name);
             target = closestTarget;
         }
     }
