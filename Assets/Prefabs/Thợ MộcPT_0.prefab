@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1609821133896456839}
   - component: {fileID: 4387820385438476930}
   - component: {fileID: 6781277390389208807}
+  - component: {fileID: 868103181490827632}
   m_Layer: 0
   m_Name: "Th\u1EE3 M\u1ED9cPT_0"
   m_TagString: Untagged
@@ -111,13 +112,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7899712497965492134}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9631dbb9818dc5c4f8c5be23681fb54b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
   khoangCach: 1.5
+  cayTrenTrai: {fileID: 0}
   woodMessagePrefab: {fileID: 8299276185041405200, guid: 85fd05d7b402ef94ea276db665942de8, type: 3}
 --- !u!114 &4387820385438476930
 MonoBehaviour:
@@ -189,3 +191,19 @@ MonoBehaviour:
   slowWhenNotFacingTarget: 1
   whenCloseToDestination: 0
   constrainInsideGraph: 0
+--- !u!114 &868103181490827632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7899712497965492134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9631dbb9818dc5c4f8c5be23681fb54b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2
+  khoangCach: 1.5
+  cayTrenTrai: {fileID: 0}
+  woodMessagePrefab: {fileID: 8299276185041405200, guid: 85fd05d7b402ef94ea276db665942de8, type: 3}

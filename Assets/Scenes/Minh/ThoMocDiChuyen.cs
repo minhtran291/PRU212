@@ -27,14 +27,15 @@ public class Testmove : MonoBehaviour
         //home = GameObject.Find("Home")?.transform;
         lumberCamp = GameObject.Find("NhaGo")?.transform;
         //forest = GameObject.Find("ForeGround")?.transform;
-        cayTrenTrai = GameObject.Find("CayGocTrenTrai").transform;
-
+        var parent = GameObject.Find("ManagePlaceWoodWorker").transform;
+        cayTrenTrai = parent.Find("CayGocTrenTrai");
+        Debug.Log("-----======"+cayTrenTrai.transform.position.ToString());
         SetNewTarget(cayTrenTrai);
 
         if (woodMessagePrefab != null)
         {
-            woodMessageInstance = Instantiate(woodMessagePrefab, GameObject.Find("Canvas").transform);
-            //woodMessageInstance.text = "ko co gi";
+            woodMessageInstance = Instantiate(woodMessagePrefab, GameObject.Find("UI").transform);
+            woodMessageInstance.text = "ko co gi";
         }
         woodMessageInstance.gameObject.SetActive(false);
     }
@@ -46,10 +47,12 @@ public class Testmove : MonoBehaviour
         {
             StartCoroutine(WaitAndChooseNewTarget());
         }
-        Debug.Log("Distance to target: " + Vector3.Distance(transform.position, target.position));
+        //Debug.Log("Distance to target: " + Vector3.Distance(transform.position, target.position));
         Debug.Log("AI reached destination: " + (Vector3.Distance(transform.position, target.position) <= khoangCach));
         Debug.Log(woodMessageInstance.text);
         Debug.Log(woodMessageInstance.transform.position);
+        Debug.Log(cayTrenTrai);
+        Debug.Log(lumberCamp);
         //Debug.Log(woodMessageText.text);
     }
 
@@ -66,6 +69,7 @@ public class Testmove : MonoBehaviour
 
         if (target == cayTrenTrai)
         {
+            Debug.Log("Cay tren trai");
             yield return new WaitForSeconds(5f);
             SetNewTarget(lumberCamp);
         }
