@@ -1,10 +1,18 @@
+using Assets.Enum;
+using Assets.Script;
 using UnityEngine;
 
 public class ManageBuilding : MonoBehaviour
 {
     [SerializeField] private BuildingChoice manage;
-    [SerializeField] private Sprite sprite;
+    [SerializeField] private GameObject buildingPrefabs;
     private GameObject selectedPlace;
+    public static ManageBuilding Instance;
+
+    private void Awake()
+    {
+        Instance = this;
+    }
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -16,14 +24,30 @@ public class ManageBuilding : MonoBehaviour
             {
                 Debug.Log("Clicked on: " + hit.collider.gameObject.name);
                 selectedPlace = hit.collider.gameObject;
-                HandleSpriteClick(selectedPlace);
+                HandleSpriteClick();
             }
         }
     }
 
-    private void HandleSpriteClick(GameObject clickedObject)
+    private void HandleSpriteClick()
     {
-        selectedPlace.GetComponent<SpriteRenderer>().sprite = sprite;
         manage.OpenTab();
     }
+    public void CreateBuilding(Sprite sprite, BuildingType type)
+    {
+        if (selectedPlace == null)
+        {
+            Debug.LogError("selectedPlace is null! Không thể tạo building.");
+            return;
+        }
+        Debug.Log("Parent of selectedPlace: " + selectedPlace.transform.parent.name);
+        Vector3 spawnPosition = selectedPlace.transform.position;
+        Destroy(selectedPlace.gameObject);
+        GameObject newBuilding = Instantiate(buildingPrefabs, spawnPosition, Quaternion.identity);
+        newBuilding.GetComponent<SpriteRenderer>().sprite = sprite;
+        newBuilding.name = type.ToString();
+        newBuilding.AddComponent<Building>();
+        newBuilding.transform.localScale = new Vector3(0.3f, 0.3f, 1);
+    }
+
 }

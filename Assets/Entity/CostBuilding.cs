@@ -9,10 +9,10 @@ namespace Assets.Entity
     [System.Serializable]
     public class CostBuilding
     {
-        public float BaseStone;
+        public int BaseStone;
 
-        public float BaseWood;
+        public int BaseWood;
 
-        public float BaseGold;
+        public int BaseGold;
     }
 }

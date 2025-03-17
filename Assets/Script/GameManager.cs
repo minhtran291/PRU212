@@ -6,10 +6,18 @@ using static TMPro.SpriteAssetUtilities.TexturePacker_JsonArray;
 public class GameManager : MonoBehaviour
 {
     [SerializeField] private int populationStart = 5;
-    [SerializeField] private int woodStart = 100;
-    [SerializeField] private int meatStart = 100;
-    [SerializeField] private int stoneStart = 100;
-    [SerializeField] private int goldStart = 0;
+    [SerializeField] private int woodStart = 1000;
+    [SerializeField] private int meatStart = 1000;
+    [SerializeField] private int stoneStart = 1000;
+    [SerializeField] private int goldStart = 1000;
+    [SerializeField] private int level = 1;
+    [SerializeField] private int dayInGame = 1;
+    public int numberOfTowerMaxInLevel = 2;
+    public int numberOfFarmerHouseMaxInLevel = 1;
+    public int numberOfWoodHouseMaxInLevel = 1;
+    public int numberOfOreStoneHouseMaxInLevel = 1;
+    public int numberOfOreGoldHouseMaxInLevel = 1;
+    public int numberOfBarracksMaxInLevel = 1;
 
     public TextMeshProUGUI populationText;
     public TextMeshProUGUI woodText;
@@ -23,6 +31,12 @@ public class GameManager : MonoBehaviour
     public int currentWood;
     public int currentMeat;
 
+    public int currentOreStone;
+    public int currentOreGold;
+    public int currentBarracks;
+    public int currentTower;
+    public int currentFarmerHouse;
+    public int currentWoodHouse;
     public static GameManager Instance;
 
     private void Awake()
@@ -37,11 +51,16 @@ public class GameManager : MonoBehaviour
         currentMeat = meatStart;
         currentStone = stoneStart;
         currentGold = goldStart;
-
+        numberOfTowerMaxInLevel *= level;
+        numberOfFarmerHouseMaxInLevel *= level;
+        numberOfWoodHouseMaxInLevel *= level;
+        numberOfOreStoneHouseMaxInLevel *= level;
+        numberOfOreGoldHouseMaxInLevel *= level;
+        numberOfBarracksMaxInLevel *= level;
         UpdateUI();
     }
 
-    private void UpdateUI()
+    public void UpdateUI()
     {
         populationText.text = currentPopulation.ToString();
         woodText.text = currentWood.ToString();

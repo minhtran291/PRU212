@@ -70,11 +70,14 @@ TagManager:
   - name: Tree
     uniqueID: 1414515683
     locked: 0
-  - name: UI
-    uniqueID: 3015738363
+  - name: Resource
+    uniqueID: 3482505595
     locked: 0
   - name: Tower
     uniqueID: 3863183
+    locked: 0
+  - name: UI
+    uniqueID: 3015738363
     locked: 0
   m_RenderingLayers:
   - Default
