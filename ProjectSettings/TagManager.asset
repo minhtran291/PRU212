@@ -8,6 +8,7 @@ TagManager:
   - Walls
   - Gate
   - TowerPlace
+  - Building
   layers:
   - Default
   - TransparentFX

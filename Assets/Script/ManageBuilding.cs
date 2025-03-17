@@ -1,28 +1,29 @@
 using UnityEngine;
-using UnityEngine.Tilemaps;
 
 public class ManageBuilding : MonoBehaviour
 {
     [SerializeField] private BuildingChoice manage;
-    [SerializeField] private Tilemap tilemap; // Gán Tilemap từ Inspector
-    private Vector3Int selectedTilePosition;
+    [SerializeField] private Sprite sprite;
+    private GameObject selectedPlace;
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            worldPosition.z = 0; 
-            Vector3Int tilePosition = tilemap.WorldToCell(worldPosition);
-            TileBase clickedTile = tilemap.GetTile(tilePosition);
-            if (clickedTile != null)
+            Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            RaycastHit2D hit = Physics2D.Raycast(mousePosition, Vector2.zero);
+
+            if (hit.collider != null)
             {
-                HandleTileClick(clickedTile, tilePosition);
+                Debug.Log("Clicked on: " + hit.collider.gameObject.name);
+                selectedPlace = hit.collider.gameObject;
+                HandleSpriteClick(selectedPlace);
             }
         }
     }
 
-    private void HandleTileClick(TileBase clickedTile, Vector3Int tilePosition)
+    private void HandleSpriteClick(GameObject clickedObject)
     {
+        selectedPlace.GetComponent<SpriteRenderer>().sprite = sprite;
         manage.OpenTab();
     }
 }
