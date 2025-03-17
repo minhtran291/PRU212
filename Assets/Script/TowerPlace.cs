@@ -27,7 +27,7 @@ public class TowerPlacementManager : MonoBehaviour
 
     private void PlaceTower(Vector3 position)
     {
-        if (GameManager.Instance != null && GameManager.Instance.stone >= 50)
+        if (GameManager.Instance != null && GameManager.Instance.currentStone >= 50)
         {
             GameManager.Instance.SpendStoneForTowerLv1(50);
             Instantiate(towerPrefab, position, Quaternion.identity);

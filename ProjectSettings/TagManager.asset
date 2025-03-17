@@ -63,6 +63,9 @@ TagManager:
   - name: BaseHome
     uniqueID: 938458613
     locked: 0
+  - name: HpBar
+    uniqueID: 1851140457
+    locked: 0
   - name: Tree
     uniqueID: 1414515683
     locked: 0

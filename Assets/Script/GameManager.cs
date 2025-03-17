@@ -17,11 +17,11 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI stoneText;
     public TextMeshProUGUI goldText;
 
-    public int stone;
-    public int gold;
-    public int population;
-    public int wood;
-    public int meat;
+    public int currentStone;
+    public int currentGold;
+    public int currentPopulation;
+    public int currentWood;
+    public int currentMeat;
 
     public static GameManager Instance;
 
@@ -32,31 +32,31 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        population = populationStart;
-        wood = woodStart;
-        meat = meatStart;
-        stone = stoneStart;
-        gold = goldStart;
+        currentPopulation = populationStart;
+        currentWood = woodStart;
+        currentMeat = meatStart;
+        currentStone = stoneStart;
+        currentGold = goldStart;
 
         UpdateUI();
     }
 
     private void UpdateUI()
     {
-        populationText.text = population.ToString();
-        woodText.text = wood.ToString();
-        meatText.text = meat.ToString();
-        stoneText.text = stone.ToString();
-        goldText.text = gold.ToString();
+        populationText.text = currentPopulation.ToString();
+        woodText.text = currentWood.ToString();
+        meatText.text = currentMeat.ToString();
+        stoneText.text = currentStone.ToString();
+        goldText.text = currentGold.ToString();
     }
 
     public void SpendStoneForTowerLv1(int amount)
     {
-        if (stone >= amount)
+        if (currentStone >= amount)
         {
-            stone -= amount;
+            currentStone -= amount;
             UpdateUI();
-            Debug.Log("Xây! Số đá còn lại: " + stone);
+            Debug.Log("Xây! Số đá còn lại: " + currentStone);
         }
         else
         {
