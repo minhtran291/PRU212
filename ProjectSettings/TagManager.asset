@@ -7,6 +7,7 @@ TagManager:
   - BuildingPlace
   - Walls
   - Gate
+  - TowerPlace
   layers:
   - Default
   - TransparentFX
@@ -70,6 +71,9 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 3015738363
+    locked: 0
+  - name: Tower
+    uniqueID: 3863183
     locked: 0
   m_RenderingLayers:
   - Default
