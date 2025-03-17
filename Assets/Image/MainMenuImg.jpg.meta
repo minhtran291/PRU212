@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d12679db72016604587be615273a8d30
+guid: 54197ae0c7c0a134ebce0380fa23cf84
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1056705559309152882
-    second: ButtonClose_0
+      213: -4033322520834249340
+    second: best-tower-defense-games-kingdom-two-crowns_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ButtonClose_0
+      name: best-tower-defense-games-kingdom-two-crowns_0
       rect:
         serializedVersion: 2
-        x: 674
-        y: 317
-        width: 75
-        height: 63
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2727dc68b1c2aae00800000000000000
-      internalID: 1056705559309152882
+      spriteID: 48d67196982c608c0800000000000000
+      internalID: -4033322520834249340
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ButtonClose_0: 1056705559309152882
+      best-tower-defense-games-kingdom-two-crowns_0: -4033322520834249340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

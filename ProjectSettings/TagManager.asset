@@ -61,6 +61,9 @@ TagManager:
   - name: Enemy
     uniqueID: 1258819903
     locked: 0
+  - name: Tower
+    uniqueID: 3863183
+    locked: 0
   - name: BaseHome
     uniqueID: 938458613
     locked: 0
@@ -72,9 +75,6 @@ TagManager:
     locked: 0
   - name: Resource
     uniqueID: 3482505595
-    locked: 0
-  - name: Tower
-    uniqueID: 3863183
     locked: 0
   - name: UI
     uniqueID: 3015738363
