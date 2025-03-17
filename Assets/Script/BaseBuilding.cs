@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class WallController : MonoBehaviour
+public class BaseBuilding : MonoBehaviour
 {
     [SerializeField] private int level = 1;
     [SerializeField] private float hpBase = 200f;
@@ -9,7 +9,7 @@ public class WallController : MonoBehaviour
     [SerializeField] private GameObject hpBarContainer;
     [SerializeField] public float currentHp;
     private float maxHp;
-    private bool isUnderAttack = false; 
+    private bool isUnderAttack = false;
     void Start()
     {
         maxHp = hpBase * level;
@@ -68,5 +68,4 @@ public class WallController : MonoBehaviour
         }
     }
 
-    
 }

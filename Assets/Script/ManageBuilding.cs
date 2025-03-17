@@ -45,8 +45,9 @@ public class ManageBuilding : MonoBehaviour
         Destroy(selectedPlace.gameObject);
         GameObject newBuilding = Instantiate(buildingPrefabs, spawnPosition, Quaternion.identity);
         newBuilding.GetComponent<SpriteRenderer>().sprite = sprite;
-        newBuilding.name = type.ToString();
-        newBuilding.AddComponent<Building>();
+        newBuilding.name = type.ToString();   
+        Building building =  newBuilding.AddComponent<Building>();
+        building.Type = type;
         newBuilding.transform.localScale = new Vector3(0.3f, 0.3f, 1);
     }
 
