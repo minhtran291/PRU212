@@ -16,4 +16,9 @@ public class BuildingChoice : MonoBehaviour
     {
         buildingChoice.SetActive(true);
     }
+
+    public void BuildFarmerHouse()
+    {
+
+    }
 }

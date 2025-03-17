@@ -5,7 +5,7 @@ public class ManageBuilding : MonoBehaviour
 {
     [SerializeField] private BuildingChoice manage;
     [SerializeField] private Tilemap tilemap; // Gán Tilemap từ Inspector
-
+    private Vector3Int selectedTilePosition;
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
