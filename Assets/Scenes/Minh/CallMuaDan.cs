@@ -8,7 +8,7 @@ public class CallMuaDan : MonoBehaviour
     public GameObject panel;
 
     public int farmerCount = 0; // nong dan
-    public int soldierCount = 0; // linh
+    public static int soldierCount = 0; // linh
     public int carpenterCount = 0; // tho moc
     public int minerCount = 0; // tho mo
 

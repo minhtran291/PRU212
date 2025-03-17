@@ -7,7 +7,6 @@ public class CharacterMovement : MonoBehaviour
     private bool isMoving = true; // kiem tra xem doi tuong co dang di hay ko
     void Start()
     {
-        // dat vi tri ban dau
         targetPosition = new Vector2(-10f, 0f);
     }
 
@@ -16,34 +15,30 @@ public class CharacterMovement : MonoBehaviour
     {
         if (isMoving)
         {
-            // di chuyen doi tuong ve phia muc tieu
             transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
 
-            // kiem tra den gan muc tieu hay chua
             if (Vector2.Distance(transform.position, targetPosition) < 0.1f)
             {
-                isMoving = false; // dung khi den muc tieu
-                StartCoroutine(WaitAndChooseNewTarget()); // cho 10 giay va chon muc tieu moi
+                isMoving = false; 
+                StartCoroutine(WaitAndChooseNewTarget()); 
             }
         }
     }
 
     IEnumerator WaitAndChooseNewTarget()
     {
-        // cho 10 giay
         yield return new WaitForSeconds(5f);
 
         if (targetPosition.x == -10f)
         {
-            targetPosition = new Vector2(-1.5f, 0f); // dat muc tieu quay lai -1.5
+            targetPosition = new Vector2(-1.5f, 0f); 
         }
         else
         {
-            targetPosition = new Vector2(-10f, 0f); // dat muc tieu la -10
+            targetPosition = new Vector2(-10f, 0f); 
         }
 
-        // neu muc tieu hien tai la -10 quay lai -1.5
-        isMoving = true; // bat dau di chuyen muc tieu moi
+        isMoving = true; 
     }
 
 }
