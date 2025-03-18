@@ -25,7 +25,7 @@ public class EnemySpawn : MonoBehaviour
                 {
                     if (listSpamEnemy[i] != null)
                     {
-                        DestroyImmediate(listSpamEnemy[i],true);
+                        Destroy(listSpamEnemy[i]);
                     }
                 }
                 listSpamEnemy.Clear();
@@ -37,7 +37,7 @@ public class EnemySpawn : MonoBehaviour
                 Transform pos = Positions[Random.Range(0, Positions.Length)];
                 GameObject enemy = Enemies[Random.Range(0, Enemies.Length)];
                 var enemies = Instantiate(enemy, pos.position, Quaternion.identity);
-                listSpamEnemy.Add(enemy);
+                listSpamEnemy.Add(enemies);
             }
         }
     }
