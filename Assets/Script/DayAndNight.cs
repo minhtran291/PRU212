@@ -12,8 +12,8 @@ public class DayAndNight : MonoBehaviour
     public Light2D light2D;
 
     private float gameTimeInSeconds;
-    private int gameDay = 1;
-    private bool isDay = false;
+    public int gameDay = 1;
+    public bool isDay = false;
 
     private void Start()
     {

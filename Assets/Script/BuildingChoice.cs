@@ -229,7 +229,8 @@ public class BuildingChoice : MonoBehaviour
         if (isValid)
         {
             Debug.Log("Hop le de xay nha");
-            ManageBuilding.Instance.CreateBuilding(buildingSprites[(int)buildingType], buildingType);
+            ManageBuilding manage = FindAnyObjectByType<ManageBuilding>();
+            manage.CreateBuilding(buildingSprites[(int)buildingType], buildingType);
             GameManager.Instance.UpdateUI();
             CloseResourceNotiTab();
             CloseTab();

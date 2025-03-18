@@ -17,8 +17,10 @@ public class EnemyManager : MonoBehaviour
     [SerializeField] private Image hpBar;
     [SerializeField] private GameObject hpBarContainer;
     [SerializeField] public float currentHp;
+    [SerializeField] private Transform localeWhenDay;
     private float maxHp;
     private bool isUnderAttack = false;
+    private DayAndNight DayAndNight;
     void Start()
     {
         maxHp = hpBase * level;
@@ -29,11 +31,16 @@ public class EnemyManager : MonoBehaviour
             hpBarContainer.SetActive(false);
         }
         rb = GetComponent<Rigidbody2D>();
+        DayAndNight = FindAnyObjectByType<DayAndNight>();
         FindClosestTarget();
     }
 
     void Update()
     {
+        if (!DayAndNight.isDay)
+        {
+            MoveWhenDay();
+        }else
         MoveHandle();
     }
 
@@ -168,4 +175,9 @@ public class EnemyManager : MonoBehaviour
         }
     }
 
+
+    private void MoveWhenDay()
+    {
+        transform.position = Vector2.MoveTowards(transform.position,localeWhenDay.position,moveSpeed/10*Time.deltaTime);
+    }
 }
