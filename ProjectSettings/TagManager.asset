@@ -10,6 +10,8 @@ TagManager:
   - TowerPlace
   - Building
   - Base
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX

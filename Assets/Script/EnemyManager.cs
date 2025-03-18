@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class EnemyManager : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 2f;
+    [SerializeField] private float moveSpeed = 10f;
     [SerializeField] private float damage = 10f;
     [SerializeField] private float speedAttack = 0.9f;
     private float nextAttack;

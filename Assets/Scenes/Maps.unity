@@ -2644,7 +2644,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1414515683
-  m_SortingLayer: 8
+  m_SortingLayer: 9
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -6891,7 +6891,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -812461701
-  m_SortingLayer: 9
+  m_SortingLayer: 10
   m_SortingOrder: 0
   m_Sprite: {fileID: 2486450786426033215, guid: e89e19d051c450c4da9a7d2f4e59576e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7979,6 +7979,7 @@ MonoBehaviour:
   DayAudioSource: {fileID: 621539158}
   NightAudioSource: {fileID: 303733886}
   NoonAudioSource: {fileID: 1001091627}
+  volumeSlider: {fileID: 0}
 --- !u!4 &591779968
 Transform:
   m_ObjectHideFlags: 0
@@ -9503,7 +9504,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 2.734375, y: -18.777588}
+  m_AnchoredPosition: {x: 2.734375, y: -18.777573}
   m_SizeDelta: {x: -204.75989, y: -63.789978}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &705864179
@@ -10862,7 +10863,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 12.8
+  orthographic size: 20
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -11373,7 +11374,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 12.8
+    OrthographicSize: 20
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -13781,7 +13782,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -812461701
-  m_SortingLayer: 9
+  m_SortingLayer: 10
   m_SortingOrder: 0
   m_Sprite: {fileID: -2435068687072307660, guid: e89e19d051c450c4da9a7d2f4e59576e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
